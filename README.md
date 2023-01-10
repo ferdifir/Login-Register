@@ -4,9 +4,11 @@ A new Flutter project that contain login and register screen.
 
 ## Screenshot
 
-<img src="https://github.com/ferdifir/Login-Register/tree/main/screenshot/1.PNG" width="160" height="auto"> <img src="https://github.com/ferdifir/Login-Register/tree/main/screenshot/1.PNG" width="160" height="auto">
-<img src="https://github.com/ferdifir/Login-Register/tree/main/screenshot/3.PNG" width="160" height="auto">
-<img src="https://github.com/ferdifir/Login-Register/tree/main/screenshot/4.PNG" width="160" height="auto">
+<p>
+<img src="https://github.com/ferdifir/Login-Register/blob/main/screenshot/1.PNG" width="160" height="auto"> <img src="https://github.com/ferdifir/Login-Register/blob/main/screenshot/2.PNG" width="160" height="auto">
+<img src="https://github.com/ferdifir/Login-Register/blob/main/screenshot/3.PNG" width="160" height="auto">
+<img src="https://github.com/ferdifir/Login-Register/blob/main/screenshot/4.PNG" width="160" height="auto">
+</p>
 
 ## Getting Started
 
